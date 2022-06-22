@@ -15,6 +15,7 @@ a {
 
 p {
     font-size: 16px;
+    text-align: center;
 }
 
 .header {
@@ -130,4 +131,5 @@ footer {
 
 .footer h2 {
     font-size: 20px;
+    text-align: center;
 }
